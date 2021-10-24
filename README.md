@@ -1,7 +1,6 @@
-## JavaGame
->First project in Java - GVB - Grand Voleur de Banque
+GVB
 
-The goal of the game is to prevent thieves from taking all the coins in the bank.
+GVB is a video game made by four students in second year of the IT University Institut of Technology of Dijon, France. The goal of the game is to prevent thieves from taking all the coins in the bank.
 
 ## Contributors
 
